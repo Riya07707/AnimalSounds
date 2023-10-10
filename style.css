@@ -1,0 +1,16 @@
+body{
+    font-family: fantasy;
+    background: rgb(255, 2, 141);
+}
+
+h2{
+    background: teal;
+    color: aqua;
+}
+.main_div button{
+    font-family: cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
